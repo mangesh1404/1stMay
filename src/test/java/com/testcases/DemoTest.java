@@ -17,5 +17,14 @@ public class DemoTest {
 		driver.findElement(By.xpath("//button")).click();
 	}
 	
+	@Test
+	public void test02() {
+		System.setProperty("webdriver.chrome.driver", "C:/chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		driver.get("file:///C:/Users/Administrator/Desktop/Offline%20Website/Offline%20Website/index.html");
+		driver.findElement(By.id("email")).sendKeys("kiran@gmail.com");
+		driver.findElement(By.id("password")).sendKeys("123456");
+		driver.findElement(By.xpath("//button")).click();
+	}
 	
 }
