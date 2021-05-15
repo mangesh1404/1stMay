@@ -1,0 +1,44 @@
+2021-05-15 09:35:34,521  INFO [main] TestBase:34 - Test suite is starting with name: Test
+2021-05-15 09:35:34,662  INFO [main] TestBase:13 - Test case is starting with name: test01
+2021-05-15 09:35:34,725  INFO [main] TestBase:23 - initializing  chrome browser
+2021-05-15 09:35:48,613  INFO [main] TestBase:26 - launching JBK offline application
+2021-05-15 09:35:55,662  INFO [main] TestBase:30 - returning a initialized driver object
+2021-05-15 09:35:58,274  INFO [main] TestBase:18 - Test case is passed with name: test01
+2021-05-15 09:35:58,278  INFO [main] TestBase:13 - Test case is starting with name: test02
+2021-05-15 09:35:58,393  INFO [main] TestBase:39 - taking a screenshot
+2021-05-15 09:35:58,712  INFO [main] TestBase:42 - saving a file with name: Demo15052021093558.png
+2021-05-15 09:35:58,770  WARN [main] TestBase:45 - file location should be proper
+2021-05-15 09:35:58,968  INFO [main] TestBase:22 - Test case is failed with name: test02
+2021-05-15 09:35:59,076  INFO [main] TestBase:13 - Test case is starting with name: test01
+2021-05-15 09:35:59,077  INFO [main] TestBase:23 - initializing  chrome browser
+2021-05-15 09:36:04,681  INFO [main] TestBase:26 - launching JBK offline application
+2021-05-15 09:36:13,447  INFO [main] TestBase:30 - returning a initialized driver object
+2021-05-15 09:36:16,929  INFO [main] TestBase:18 - Test case is passed with name: test01
+2021-05-15 09:36:16,935  INFO [main] TestBase:13 - Test case is starting with name: test02
+2021-05-15 09:36:16,936  INFO [main] TestBase:39 - taking a screenshot
+2021-05-15 09:36:17,405  INFO [main] TestBase:42 - saving a file with name: Demo15052021093616.png
+2021-05-15 09:36:17,406  WARN [main] TestBase:45 - file location should be proper
+2021-05-15 09:36:17,413  INFO [main] TestBase:22 - Test case is failed with name: test02
+2021-05-15 09:36:17,838  INFO [main] TestBase:38 - Test suite is finished with name: Test
+2021-05-15 09:42:39,813  INFO [main] TestBase:34 - Test suite is starting with name: Test
+2021-05-15 09:42:40,533  INFO [main] TestBase:13 - Test case is starting with name: test01
+2021-05-15 09:42:40,699  INFO [main] TestBase:23 - initializing  chrome browser
+2021-05-15 09:42:49,361  INFO [main] TestBase:26 - launching JBK offline application
+2021-05-15 09:43:01,259  INFO [main] TestBase:30 - returning a initialized driver object
+2021-05-15 09:43:04,048  INFO [main] TestBase:18 - Test case is passed with name: test01
+2021-05-15 09:43:04,051  INFO [main] TestBase:13 - Test case is starting with name: test02
+2021-05-15 09:43:04,101  INFO [main] TestBase:39 - taking a screenshot
+2021-05-15 09:43:04,338  INFO [main] TestBase:42 - saving a file with name: Demo15052021094304.png
+2021-05-15 09:43:04,339  WARN [main] TestBase:45 - file location should be proper
+2021-05-15 09:43:06,638  INFO [main] TestBase:22 - Test case is failed with name: test02
+2021-05-15 09:43:07,531  INFO [main] TestBase:13 - Test case is starting with name: test01
+2021-05-15 09:43:07,533  INFO [main] TestBase:23 - initializing  chrome browser
+2021-05-15 09:43:16,665  INFO [main] TestBase:26 - launching JBK offline application
+2021-05-15 09:43:27,817  INFO [main] TestBase:30 - returning a initialized driver object
+2021-05-15 09:43:29,705  INFO [main] TestBase:18 - Test case is passed with name: test01
+2021-05-15 09:43:29,710  INFO [main] TestBase:13 - Test case is starting with name: test02
+2021-05-15 09:43:29,711  INFO [main] TestBase:39 - taking a screenshot
+2021-05-15 09:43:29,960  INFO [main] TestBase:42 - saving a file with name: Demo15052021094329.png
+2021-05-15 09:43:29,961  WARN [main] TestBase:45 - file location should be proper
+2021-05-15 09:43:30,026  INFO [main] TestBase:22 - Test case is failed with name: test02
+2021-05-15 09:43:30,609  INFO [main] TestBase:38 - Test suite is finished with name: Test
