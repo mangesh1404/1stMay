@@ -8,12 +8,13 @@ public class DemoTest extends TestBase {
 
 	
 	@Test
-	public void test01() {
+	public void test01() throws Exception {
 		driver = initialization();
-		driver.findElement(By.id("email")).sendKeys("kiran@gmail.com");
-		driver.findElement(By.id("password")).sendKeys("123456");
-		driver.findElement(By.xpath("//button")).click();
-		Assert.assertEquals(driver.getTitle(), "JavaByKiran | Dashboard");
+		Thread.sleep(5000);
+		edriver.findElement(By.id("email")).sendKeys("kiran@gmail.com");
+		edriver.findElement(By.id("password")).sendKeys("123456");
+		edriver.findElement(By.xpath("//button")).click();
+		Assert.assertEquals(edriver.getTitle(), "JavaByKiran | Dashboard");
 	}
 	
 	@Test

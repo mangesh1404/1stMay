@@ -9,10 +9,10 @@ public class DemoTest2 extends TestBase {
 	@Test
 	public void test01() {
 		driver = initialization();
-		driver.findElement(By.id("email")).sendKeys("kiran@gmail.com");
-		driver.findElement(By.id("password")).sendKeys("123456");
-		driver.findElement(By.xpath("//button")).click();
-		Assert.assertEquals(driver.getTitle(), "JavaByKiran | Dashboard");
+		edriver.findElement(By.id("email")).sendKeys("kiran@gmail.com");
+		edriver.findElement(By.id("password")).sendKeys("123456");
+		edriver.findElement(By.xpath("//button")).click();
+		Assert.assertEquals(edriver.getTitle(), "JavaByKiran | Dashboard");
 	}
 	
 	@Test
